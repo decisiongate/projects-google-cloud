@@ -6,6 +6,6 @@
 ## Content
 - [google-cloud-platform](/google-cloud-platform/README.md)
 
-https://cloud.google.com/appengine/docs/standard/java11/specifying-dependencies
+[Specifying dependencies for Java](https://cloud.google.com/appengine/docs/standard/java11/specifying-dependencies)
 
-https://mvnrepository.com/artifact/com.google.cloud
+[MVN repository for Google Cloud](https://mvnrepository.com/artifact/com.google.cloud)
