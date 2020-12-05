@@ -30,6 +30,5 @@
 # Getting Started with Google Cloud Platform: 
 - [cloud.google.com](https://cloud.google.com/)
 
-# Using the SDK: 
-- Using the SDK with Apache Maven:
-...
+# Using the Google Cloud SDK: 
+[Installing the SDK](https://cloud.google.com/sdk/docs/install)
