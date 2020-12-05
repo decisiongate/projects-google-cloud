@@ -4,8 +4,7 @@
 * Google Cloud Platform Apps & Pipelines
 	
 ## Content
-- [google-cloud-platform](/google-cloud-platform/README.md)
-
+- [Google Cloud Platform](/google-cloud-platform/README.md)
 
 ## Links
 [Specifying dependencies for Java](https://cloud.google.com/appengine/docs/standard/java11/specifying-dependencies)
