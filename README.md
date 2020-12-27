@@ -1,7 +1,14 @@
 # Projects for Google Cloud Platform
 
 ## Technology stack
-* Google Cloud Platform Apps & Pipelines
+- Compute Engine
+- Cloud Storage
+- Cloud SDK
+- Cloud SQL
+- BigQuery
+- Dataflow
+- Google Kubernetes Engine
+- Cloud Run
 	
 ## Content
 - [Google Cloud Platform](/google-cloud-platform/README.md)
