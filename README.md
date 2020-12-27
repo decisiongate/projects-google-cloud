@@ -1,10 +1,12 @@
 # Projects for Google Cloud Platform
 
 ## Technology stack
+- App Engine flexible environment
 - Compute Engine
 - Cloud Storage
 - Cloud SDK
 - Cloud SQL
+- Cloud Datastore
 - BigQuery
 - Dataflow
 - Google Kubernetes Engine
