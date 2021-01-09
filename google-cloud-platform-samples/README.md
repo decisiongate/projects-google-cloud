@@ -19,5 +19,7 @@
 - [PHP on Google Cloud Platform](https://github.com/GoogleCloudPlatform/getting-started-php)
 
 ## Google APIs
-
 - [googleAPIs Java-AutoML samples](https://github.com/googleapis/java-automl/tree/master/samples)
+
+## Various
+- [Google App Engine Standard Environment Samples for Java 11](https://github.com/GoogleCloudPlatform/java-docs-samples/tree/master/appengine-java11)
