@@ -31,4 +31,4 @@
 - [cloud.google.com](https://cloud.google.com/)
 
 # Using the Google Cloud SDK: 
-[Installing the SDK](https://cloud.google.com/sdk/docs/install)
+- [Installing the SDK](https://cloud.google.com/sdk/docs/install)
