@@ -1,4 +1,4 @@
-# Google Cloud Platform
+# Google Cloud Platform - General
 	
 ## Dependencies
 * Java: 11
