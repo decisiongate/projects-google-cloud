@@ -14,7 +14,7 @@
 * build plugins: maven-compiler-plugin, maven-assembly-plugin
 * Spark: spark-core_2.12, spark-sql_2.12
 
-# Setup:
+## Setup:
 - Google Cloud Client Libraries for Java: <br />
 [github.com/googleapis/google-cloud-java](https://github.com/googleapis/google-cloud-java)
 - MVN repository for Google Cloud: <br />
@@ -28,8 +28,8 @@
 </dependency>
 ```
 
-# Getting Started with Google Cloud Platform: 
+## Getting Started with Google Cloud Platform: 
 - [cloud.google.com](https://cloud.google.com/)
 
-# Using the Google Cloud SDK: 
+## Using the Google Cloud SDK: 
 - [Installing the SDK](https://cloud.google.com/sdk/docs/install)
