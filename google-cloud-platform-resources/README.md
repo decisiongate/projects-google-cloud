@@ -1,6 +1,7 @@
 # Google Cloud Platform - resources
 	
 ## Resources:
+
 - Google Cloud documentation:
 https://cloud.google.com/docs/
 

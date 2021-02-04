@@ -19,6 +19,7 @@
 [github.com/googleapis/google-cloud-java](https://github.com/googleapis/google-cloud-java)
 - MVN repository for Google Cloud: <br />
 [mvnrepository.com/artifact/com.google.cloud](https://mvnrepository.com/artifact/com.google.cloud/)
+
 ```
 <dependency>
   <groupId>com.google.cloud</groupId>
