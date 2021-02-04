@@ -9,8 +9,8 @@
 - Cloud Datastore
 - BigQuery
 - Dataflow
-- Google Kubernetes Engine
 - Cloud Run
+- Google Kubernetes Engine
 	
 ## Content
 - [Google Cloud Platform](/google-cloud-platform/README.md)
