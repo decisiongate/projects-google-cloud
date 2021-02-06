@@ -1,4 +1,4 @@
-# Projects for Google Cloud Platform
+# Cloud Projects - Google Cloud Platform
 
 ## Technology stack
 - App Engine flexible environment
